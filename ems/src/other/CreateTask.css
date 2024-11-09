@@ -1,0 +1,49 @@
+.forma{
+    background-color: #1C1C1C;
+    height: 600px;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.title{
+    font-size: 20px;
+
+}
+
+.in{
+    width: 59%;
+    height: 39px;
+    border-radius: 4px;
+    background-color: #1C1C1C;
+    border: 1px solid #fff;
+    padding-left: 5px;
+}
+.d{
+    margin-bottom: 20px;
+}
+
+.des{
+    display: flex;
+    flex-direction: column;
+}
+
+.texta{
+    width: 700px;
+    border: 1px solid #fff;
+    background-color: #1C1C1C;
+    border-radius: 6px;
+}
+
+.btn{
+    /* background-color: green; */
+    width: 700px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+
+
+
+
